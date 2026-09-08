@@ -1,6 +1,6 @@
 import 'package:path/path.dart';
 import 'package:sqflite/sqflite.dart';
-import '../models/college_model.dart';
+import '../model/college_model.dart';
 
 class DbService {
   // Singleton pattern instance
